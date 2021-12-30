@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956460593634",
+    "project_id": "labproject-2d503",
+    "storage_bucket": "labproject-2d503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956460593634:android:f3cdb0d1057a82e17bc9bb",
+        "android_client_info": {
+          "package_name": "com.example.lablast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956460593634-f1c5gmnjdipee35jk6os5fth9acvt5pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxP_bcu-x4MzhDnkx-aJ5_OR8r2LxM-94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956460593634-f1c5gmnjdipee35jk6os5fth9acvt5pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
